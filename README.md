@@ -1,4 +1,4 @@
-# 谷歌因代理SDK合规性问题打击全球大型网络代理商：IPIDEA，922Proxy, 360Proxy和PIAProxy等被封禁 寻找替代品
+# IPIDEA，922Proxy, 360Proxy和PIAProxy等被Google谷歌封禁 寻找替代品
 
 ## 引言
 谷歌近期联合合作伙伴成功打击了全球大型住宅代理网络IPIDEA。该网络通过嵌入恶意SDK的木马化应用，在用户不知情下将数百万台设备变为代理节点，其基础设施被广泛用于网络攻击、间谍活动等恶意行为。 来源文章请阅读：[谷歌打击全球最大住宅代理商IPIDEA](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network)
